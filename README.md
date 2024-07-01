@@ -31,3 +31,14 @@ A simple web application built with Next.js to view GitHub issues using the GitH
 ## Running tests
  ### Only tests for ```Filters.tsx``` have been added.
  To simply run the tests you can run ```npm test```.
+
+# Presentation
+
+## All issues with pagination on second page
+![all-issues-with-pagination-on-second-page](./images/all.png)
+
+## Open issues
+![open](./images/open.png)
+
+## Closed issues
+![closed](./images/closed.png)
