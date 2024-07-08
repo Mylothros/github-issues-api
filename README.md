@@ -21,7 +21,7 @@ A simple web application built with Next.js to view GitHub issues using the GitH
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Mylothros/case-study.git
+   git clone https://github.com/Mylothros/github-issues-api.git
    npm install
    ```
 2. Add your PAT
